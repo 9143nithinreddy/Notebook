@@ -1,0 +1,10 @@
+SPring boot starter depencies :-
+Spring Web
+
+Spring Data JPA
+
+MySQL Driver
+
+Spring Boot DevTools
+
+Lombok (optional)
